@@ -4,7 +4,8 @@
     "password": "password",
     "database": "phusmith",
     "host": "192.168.64.2",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "logging": false
   },
   "test": {
     "username": "root",
