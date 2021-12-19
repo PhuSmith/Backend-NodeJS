@@ -2,7 +2,7 @@
   "development": {
     "username": "username",
     "password": "password",
-    "database": "phusmith",
+    "database": "bookingcare",
     "host": "192.168.64.2",
     "dialect": "mysql",
     "logging": false
