@@ -5,7 +5,11 @@
     "database": "bookingcare",
     "host": "192.168.64.2",
     "dialect": "mysql",
-    "logging": false
+    "logging": false,
+    "query": {
+      "raw": true
+    },
+    "timezone": "+07:00"
   },
   "test": {
     "username": "root",
